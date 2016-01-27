@@ -1,7 +1,7 @@
 {
-  "name": "angular-chart-wrapper",
-  "main": "src/angular-chart-wrapper.js",
-  "version": "1.0.2",
+  "name": "angular-morris-chart-wrapper",
+  "main": "src/angular-morris-chart-wrapper.js",
+  "version": "1.0.0",
   "authors": [
     "zhenshan Chen<zhenshan0026@gmail.com>"
   ],

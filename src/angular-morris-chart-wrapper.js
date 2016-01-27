@@ -1,6 +1,6 @@
 'use strict';
 (function() {
-    angular.module('angularChartWrapper', [])
+    angular.module('angularMorrisChartWrapper', [])
         .factory('cdaChartService', function($injector) {
             var s = {
                 populateScopeDefination: function (scopeDefination, optionKeys) {
